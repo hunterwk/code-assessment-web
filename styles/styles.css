@@ -1,1 +1,24 @@
 /* CUSTOM STYLES HERE */
+
+#LocationHours {
+    color: green;
+}
+#PhoneNum {
+    color: orange;
+}
+.card {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#MainContainer {
+    max-height: 50em;
+    max-width: 75em;
+}
+#CardCol {
+    max-height: 49em;
+    max-width: 75em;
+    overflow: auto;
+}
