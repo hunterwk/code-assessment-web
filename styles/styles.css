@@ -1,9 +1,9 @@
 /* CUSTOM STYLES HERE */
 
-#LocationHours {
+.hoursOpen {
     color: green;
 }
-#PhoneNum {
+.phoneNum {
     color: orange;
 }
 .card {
