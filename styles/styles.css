@@ -1,4 +1,7 @@
 /* CUSTOM STYLES HERE */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
 
 .hoursOpen {
     color: green;
@@ -6,13 +9,7 @@
 .phoneNum {
     color: orange;
 }
-.card {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
-}
-h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
+
 #MainContainer {
     max-height: 50em;
     max-width: 75em;
